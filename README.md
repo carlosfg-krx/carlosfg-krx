@@ -38,5 +38,3 @@
 <br>
 
  ------
- Credit: [jaivardhan-bhola](https://github.com/jaivardhan-bhola)
- Last edited on: 15/09/2022
