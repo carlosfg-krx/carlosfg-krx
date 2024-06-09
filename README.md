@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning about **Desktop apps using Python and More Lang**
 
-- 👨‍💻 My main project is: [my website](https://www.admira.site/)
+- 👨‍💻 Portafolio Carlos: [my Portafolio](https://kraux-py.github.io/Portafolio-HTML-CSS/)
 
 <br>
 <br>
